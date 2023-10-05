@@ -1,2 +1,2 @@
 # Problem-Setting-CodeChef
-Here I'll share the problems used in codechef contests which were created by me.
+Here I'll share the problems created by me which were used in a codechef contests.
